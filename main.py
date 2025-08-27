@@ -34,7 +34,7 @@ user_profile = {f"name": "{nm}", "prefrences": {"theme": "funny"}}
 
 
 client = OpenAI(
-  api_key="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"
+  api_key="" # enter api key here
 )
 
 def printdy(text, colorama1=Fore.WHITE):
