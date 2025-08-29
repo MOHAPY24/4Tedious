@@ -52,7 +52,7 @@ pip install openai colorama
 3. Run the program:
 
    ```bash
-   python main.py
+   python 4td.py
    ```
 4. On startup, you’ll see the **4TD banner**.
 
